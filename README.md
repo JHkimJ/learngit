@@ -13,7 +13,6 @@
 
 ----
 ```
-JavaScript
 import React, { useState, useEffect } from "react";
 import { useRef } from "react";
 import { Map, MapMarker, MapInfoWindow } from 'react-kakao-maps-sdk';
